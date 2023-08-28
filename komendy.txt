@@ -1,0 +1,2 @@
+npm exec html-validate --save -dev **/*.html
+npm exec html-validate --verbose **/*.html
